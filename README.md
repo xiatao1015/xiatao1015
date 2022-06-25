@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @xiatao1015
 - 👀 I’m interested in badminton.
-- 🌱 I’m currently learning c++;java.
-- 💞️ I’m looking to collaborate on game development.
+- 🌱 I’m currently learning python; java.
+- 💞️ I’m looking to collaborate on NLP-Learning.
 - 📫 How to reach me 1727139975(QQ).
 
 <!---
